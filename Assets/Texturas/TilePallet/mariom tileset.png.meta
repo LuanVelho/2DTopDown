@@ -1,0 +1,3627 @@
+fileFormatVersion: 2
+guid: 66b90ef7c1cd0144eab8751a9b04475b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9099635418568101777
+    second: mariom tileset_0
+  - first:
+      213: -4857682426713732657
+    second: mariom tileset_1
+  - first:
+      213: -4271072648474955132
+    second: mariom tileset_2
+  - first:
+      213: -3817685252453637700
+    second: mariom tileset_3
+  - first:
+      213: 2996117023203062366
+    second: mariom tileset_4
+  - first:
+      213: 4598482154782988894
+    second: mariom tileset_5
+  - first:
+      213: 8364343731368949959
+    second: mariom tileset_6
+  - first:
+      213: 3937578538351300102
+    second: mariom tileset_7
+  - first:
+      213: -6023620350800859088
+    second: mariom tileset_8
+  - first:
+      213: 2421284347374761060
+    second: mariom tileset_9
+  - first:
+      213: -8244117994387403772
+    second: mariom tileset_10
+  - first:
+      213: -4732418020948682239
+    second: mariom tileset_11
+  - first:
+      213: -8316980161255095232
+    second: mariom tileset_12
+  - first:
+      213: -8362293514534459180
+    second: mariom tileset_13
+  - first:
+      213: 367016754652943669
+    second: mariom tileset_14
+  - first:
+      213: 5529033092287009583
+    second: mariom tileset_15
+  - first:
+      213: 8365267756606785046
+    second: mariom tileset_16
+  - first:
+      213: -1915533232023595596
+    second: mariom tileset_17
+  - first:
+      213: 7973917888946814960
+    second: mariom tileset_18
+  - first:
+      213: 9213534025817520526
+    second: mariom tileset_19
+  - first:
+      213: -6711349668427100283
+    second: mariom tileset_20
+  - first:
+      213: -3579071823394766692
+    second: mariom tileset_21
+  - first:
+      213: 1151597898363915716
+    second: mariom tileset_22
+  - first:
+      213: 3289980448043873489
+    second: mariom tileset_23
+  - first:
+      213: 1669282316337676177
+    second: mariom tileset_24
+  - first:
+      213: 2070643136387818093
+    second: mariom tileset_25
+  - first:
+      213: 6583615705131543907
+    second: mariom tileset_26
+  - first:
+      213: -2839682000397601506
+    second: mariom tileset_27
+  - first:
+      213: 2073944697916230955
+    second: mariom tileset_28
+  - first:
+      213: -3507869976220483400
+    second: mariom tileset_29
+  - first:
+      213: 3018866173303325161
+    second: mariom tileset_30
+  - first:
+      213: -429532583601807206
+    second: mariom tileset_31
+  - first:
+      213: 3456340658216922407
+    second: mariom tileset_32
+  - first:
+      213: -2627440548525527786
+    second: mariom tileset_33
+  - first:
+      213: 6548318870586642024
+    second: mariom tileset_34
+  - first:
+      213: 6894698593085538056
+    second: mariom tileset_35
+  - first:
+      213: -4270141726026014659
+    second: mariom tileset_36
+  - first:
+      213: 1554288880018670408
+    second: mariom tileset_37
+  - first:
+      213: 9111059611345841439
+    second: mariom tileset_38
+  - first:
+      213: 4565797603405036628
+    second: mariom tileset_39
+  - first:
+      213: -9220537482061890275
+    second: mariom tileset_40
+  - first:
+      213: -8697566273952169283
+    second: mariom tileset_41
+  - first:
+      213: -3141743837271171508
+    second: mariom tileset_42
+  - first:
+      213: 6934208187660846888
+    second: mariom tileset_43
+  - first:
+      213: -2926905772178297559
+    second: mariom tileset_44
+  - first:
+      213: 7231436215513409979
+    second: mariom tileset_45
+  - first:
+      213: 3163452784085521099
+    second: mariom tileset_46
+  - first:
+      213: -1153746116875970772
+    second: mariom tileset_47
+  - first:
+      213: 1448308374193565378
+    second: mariom tileset_48
+  - first:
+      213: -6063015798773249317
+    second: mariom tileset_49
+  - first:
+      213: 5155155449352743839
+    second: mariom tileset_50
+  - first:
+      213: 3582067357488223848
+    second: mariom tileset_51
+  - first:
+      213: 8489332642197483410
+    second: mariom tileset_52
+  - first:
+      213: -111407294881998839
+    second: mariom tileset_53
+  - first:
+      213: -2898596183035782238
+    second: mariom tileset_54
+  - first:
+      213: -4431355411393868129
+    second: mariom tileset_55
+  - first:
+      213: 8008537079931420999
+    second: mariom tileset_56
+  - first:
+      213: 7228801125028631582
+    second: mariom tileset_57
+  - first:
+      213: 2387602125049982598
+    second: mariom tileset_58
+  - first:
+      213: 7270278905020690738
+    second: mariom tileset_59
+  - first:
+      213: 33686643183564103
+    second: mariom tileset_60
+  - first:
+      213: -4365549417523010983
+    second: mariom tileset_61
+  - first:
+      213: -7485320738029436242
+    second: mariom tileset_62
+  - first:
+      213: 1740233826308388013
+    second: mariom tileset_63
+  - first:
+      213: 606077065474528846
+    second: mariom tileset_64
+  - first:
+      213: 5992337474239568325
+    second: mariom tileset_65
+  - first:
+      213: -3559515549306626591
+    second: mariom tileset_66
+  - first:
+      213: 7900598389803226187
+    second: mariom tileset_67
+  - first:
+      213: 6025460822573877530
+    second: mariom tileset_68
+  - first:
+      213: 8862701084740346636
+    second: mariom tileset_69
+  - first:
+      213: -8847746855034029351
+    second: mariom tileset_70
+  - first:
+      213: -1038770176686287979
+    second: mariom tileset_71
+  - first:
+      213: -3073070517629157887
+    second: mariom tileset_72
+  - first:
+      213: 1384016714935982185
+    second: mariom tileset_73
+  - first:
+      213: -4631926979364558877
+    second: mariom tileset_74
+  - first:
+      213: -8589491157722084033
+    second: mariom tileset_75
+  - first:
+      213: -1526071232005579764
+    second: mariom tileset_76
+  - first:
+      213: -315110905444118145
+    second: mariom tileset_77
+  - first:
+      213: 2255416074925061445
+    second: mariom tileset_78
+  - first:
+      213: -149475902070517876
+    second: mariom tileset_79
+  - first:
+      213: 5414398140799786537
+    second: mariom tileset_80
+  - first:
+      213: -5841650460680578894
+    second: mariom tileset_81
+  - first:
+      213: -8305196541213265293
+    second: mariom tileset_82
+  - first:
+      213: -7159024218659627392
+    second: mariom tileset_83
+  - first:
+      213: 5032389900780251542
+    second: mariom tileset_84
+  - first:
+      213: -986208669976575723
+    second: mariom tileset_85
+  - first:
+      213: -4273400321158445524
+    second: mariom tileset_86
+  - first:
+      213: -2172917038778864810
+    second: mariom tileset_87
+  - first:
+      213: 4971517624998240981
+    second: mariom tileset_88
+  - first:
+      213: -429787260247060255
+    second: mariom tileset_89
+  - first:
+      213: -8041346716618477056
+    second: mariom tileset_90
+  - first:
+      213: -2968392974292268229
+    second: mariom tileset_91
+  - first:
+      213: 4254230915452929589
+    second: mariom tileset_92
+  - first:
+      213: -5264735939573934160
+    second: mariom tileset_93
+  - first:
+      213: -6219990857923276426
+    second: mariom tileset_94
+  - first:
+      213: -4005001896477627541
+    second: mariom tileset_95
+  - first:
+      213: 6125454482750692468
+    second: mariom tileset_96
+  - first:
+      213: 2568614683651172780
+    second: mariom tileset_97
+  - first:
+      213: 5220479688747901809
+    second: mariom tileset_98
+  - first:
+      213: -4758830758018547343
+    second: mariom tileset_99
+  - first:
+      213: 1848794524479200545
+    second: mariom tileset_100
+  - first:
+      213: 2209424570130462733
+    second: mariom tileset_101
+  - first:
+      213: -567025662239617899
+    second: mariom tileset_102
+  - first:
+      213: 4914550462765105418
+    second: mariom tileset_103
+  - first:
+      213: 5768130686927680496
+    second: mariom tileset_104
+  - first:
+      213: -2015815332041753264
+    second: mariom tileset_105
+  - first:
+      213: -2083883674311680658
+    second: mariom tileset_106
+  - first:
+      213: -2773537707798036640
+    second: mariom tileset_107
+  - first:
+      213: -6841229530746423684
+    second: mariom tileset_108
+  - first:
+      213: 7982563446606959834
+    second: mariom tileset_109
+  - first:
+      213: 9013502336499537456
+    second: mariom tileset_110
+  - first:
+      213: -8022017728419065857
+    second: mariom tileset_111
+  - first:
+      213: -8797487609132840911
+    second: mariom tileset_112
+  - first:
+      213: 1675886359479491636
+    second: mariom tileset_113
+  - first:
+      213: -477096030407626682
+    second: mariom tileset_114
+  - first:
+      213: -7891482016603724231
+    second: mariom tileset_115
+  - first:
+      213: 1074364820080279477
+    second: mariom tileset_116
+  - first:
+      213: -4365117017370776896
+    second: mariom tileset_117
+  - first:
+      213: -5788457009004132549
+    second: mariom tileset_118
+  - first:
+      213: 1976377044340577824
+    second: mariom tileset_119
+  - first:
+      213: -1943559333685574539
+    second: mariom tileset_120
+  - first:
+      213: -4458170091553616480
+    second: mariom tileset_121
+  - first:
+      213: -3738520366214123610
+    second: mariom tileset_122
+  - first:
+      213: 8604332575617210031
+    second: mariom tileset_123
+  - first:
+      213: 7021370392542322029
+    second: mariom tileset_124
+  - first:
+      213: 8742124994163747417
+    second: mariom tileset_125
+  - first:
+      213: -6301686573385718868
+    second: mariom tileset_126
+  - first:
+      213: -8909834582020848106
+    second: mariom tileset_127
+  - first:
+      213: -429410126288173052
+    second: mariom tileset_128
+  - first:
+      213: 3755442210844207181
+    second: mariom tileset_129
+  - first:
+      213: 6395018253966877035
+    second: mariom tileset_130
+  - first:
+      213: 3243002868130374776
+    second: mariom tileset_131
+  - first:
+      213: -6319581845272606039
+    second: mariom tileset_132
+  - first:
+      213: -1374937106776974291
+    second: mariom tileset_133
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mariom tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f607faa7cc997b180800000000000000
+      internalID: -9099635418568101777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9021ce19b069cb0800000000000000
+      internalID: -4857682426713732657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48273c92e0a1ab4c0800000000000000
+      internalID: -4271072648474955132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1e0476d7bd40bc0800000000000000
+      internalID: -3817685252453637700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52f489fe88549920800000000000000
+      internalID: 2996117023203062366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a10dde72711df30800000000000000
+      internalID: 4598482154782988894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8f287be4e141470800000000000000
+      internalID: 8364343731368949959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e81a581d615a630800000000000000
+      internalID: 3937578538351300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 188
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03073b8943dc76ca0800000000000000
+      internalID: -6023620350800859088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 181
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4647c7119412a9120800000000000000
+      internalID: 2421284347374761060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c02220d52079d80800000000000000
+      internalID: -8244117994387403772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a52b422e2135eb0800000000000000
+      internalID: -4732418020948682239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0444b6ccb96249c80800000000000000
+      internalID: -8316980161255095232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 181
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8ee969a5a23fb80800000000000000
+      internalID: -8362293514534459180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_14
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53594b73bc7e71500800000000000000
+      internalID: 367016754652943669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f239529ad421bbc40800000000000000
+      internalID: 5529033092287009583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 181
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616839b14b6671470800000000000000
+      internalID: 8365267756606785046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 181
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b517c5aca8aa65e0800000000000000
+      internalID: -1915533232023595596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_18
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 181
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffbec6821c09ae60800000000000000
+      internalID: 7973917888946814960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89f3de816c0ddf70800000000000000
+      internalID: 9213534025817520526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f87f9e80f7cd2a0800000000000000
+      internalID: -6711349668427100283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9002fca325945ec0800000000000000
+      internalID: -3579071823394766692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd4118ef2c4bff00800000000000000
+      internalID: 1151597898363915716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4b2a359cb58ad20800000000000000
+      internalID: 3289980448043873489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ff5272c6b7a2710800000000000000
+      internalID: 1669282316337676177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d622ff836f66cbc10800000000000000
+      internalID: 2070643136387818093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d6c023a93bd5b50800000000000000
+      internalID: 6583615705131543907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15fa33144c6798d0800000000000000
+      internalID: -2839682000397601506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d0a1be6b128cc10800000000000000
+      internalID: 2073944697916230955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0ce1597da815fc0800000000000000
+      internalID: -3507869976220483400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1003c3aca25e920800000000000000
+      internalID: 3018866173303325161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9065f6146ef90af0800000000000000
+      internalID: -429532583601807206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d62c3248367ff20800000000000000
+      internalID: 3456340658216922407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dadacedb4798bd0800000000000000
+      internalID: -2627440548525527786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_34
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ecd4d715d40ea50800000000000000
+      internalID: 6548318870586642024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 171
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fbf3a37d3eeaf50800000000000000
+      internalID: 6894698593085538056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 154
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3065af69b86db4c0800000000000000
+      internalID: -4270141726026014659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 164
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8434adb5081f19510800000000000000
+      internalID: 1554288880018670408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 164
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d6dada17cf07e70800000000000000
+      internalID: 9111059611345841439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_39
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 164
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c794bcab8fc5f30800000000000000
+      internalID: 4565797603405036628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 164
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1db68733021a0080800000000000000
+      internalID: -9220537482061890275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 164
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c9a63e890c4780800000000000000
+      internalID: -8697566273952169283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4edd2c20a84664d0800000000000000
+      internalID: -3141743837271171508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82741209b914b3060800000000000000
+      internalID: 6934208187660846888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92da54625ba8167d0800000000000000
+      internalID: -2926905772178297559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb962999ce83b5460800000000000000
+      internalID: 7231436215513409979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc25323eb87d6eb20800000000000000
+      internalID: 3163452784085521099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_47
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c271f9ef4021dffe0800000000000000
+      internalID: -1153746116875970772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cee709facc691410800000000000000
+      internalID: 1448308374193565378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda0a861147dbdba0800000000000000
+      internalID: -6063015798773249317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9be698619aca8740800000000000000
+      internalID: 5155155449352743839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 147
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8669b94784f06b130800000000000000
+      internalID: 3582067357488223848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 130
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f2f464f0b20d570800000000000000
+      internalID: 8489332642197483410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 147
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908db23d7a3347ef0800000000000000
+      internalID: -111407294881998839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_54
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 130
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab59d2012e16c7d0800000000000000
+      internalID: -2898596183035782238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_55
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 147
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e0d5e4bb9a082c0800000000000000
+      internalID: -4431355411393868129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_56
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 130
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7414bdb0b0a042f60800000000000000
+      internalID: 8008537079931420999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 147
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e149649c25cd15460800000000000000
+      internalID: 7228801125028631582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_58
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 130
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e62909b77722120800000000000000
+      internalID: 2387602125049982598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_59
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 147
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23136cff42835e460800000000000000
+      internalID: 7270278905020690738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745b1a0d2dda77000800000000000000
+      internalID: 33686643183564103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 120
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952a0273fe37a63c0800000000000000
+      internalID: -4365549417523010983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea204eb927cce1890800000000000000
+      internalID: -7485320738029436242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 120
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4fa33e17d862810800000000000000
+      internalID: 1740233826308388013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 120
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46de1241e7396800800000000000000
+      internalID: 606077065474528846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 120
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c99f4e1f2f092350800000000000000
+      internalID: 5992337474239568325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 120
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed591f877f0a9ec0800000000000000
+      internalID: -3559515549306626591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 120
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b449e39506094ad60800000000000000
+      internalID: 7900598389803226187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a198c81a1bcbe9350800000000000000
+      internalID: 6025460822573877530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_69
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03ea621ea3aefa70800000000000000
+      internalID: 8862701084740346636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_70
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 117
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dafd1bdc1d763580800000000000000
+      internalID: -8847746855034029351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5931857270c8591f0800000000000000
+      internalID: -1038770176686287979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 117
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10efcf265a24a55d0800000000000000
+      internalID: -3073070517629157887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_73
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96856f09ed3053310800000000000000
+      internalID: 1384016714935982185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_74
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 117
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e76d6904f618bfb0800000000000000
+      internalID: -4631926979364558877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_75
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dcd961d4ffbc880800000000000000
+      internalID: -8589491157722084033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_76
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 117
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c5d5acc4e42dae0800000000000000
+      internalID: -1526071232005579764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_77
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71d6201d4080abf0800000000000000
+      internalID: -315110905444118145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_78
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 117
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5453d9e68f8dc4f10800000000000000
+      internalID: 2255416074925061445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_79
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f0b928574fcedf0800000000000000
+      internalID: -149475902070517876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_80
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 117
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e18ee1c6ec32b40800000000000000
+      internalID: 5414398140799786537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_81
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 123
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8132d3bd94eeea0800000000000000
+      internalID: -5841650460680578894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3723e23afb30ebc80800000000000000
+      internalID: -8305196541213265293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_83
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08edf5c376906ac90800000000000000
+      internalID: -7159024218659627392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6992547b3f3a6d540800000000000000
+      internalID: 5032389900780251542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_85
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511c2a790784052f0800000000000000
+      internalID: -986208669976575723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_86
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c268f42ac05d1b4c0800000000000000
+      internalID: -4273400321158445524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_87
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 103
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b2131477f38d1e0800000000000000
+      internalID: -2172917038778864810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_88
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 97
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d22d9090f06ef440800000000000000
+      internalID: 4971517624998240981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_89
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 97
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e05cff83c6190af0800000000000000
+      internalID: -429787260247060255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_90
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 91
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002b33024c5676090800000000000000
+      internalID: -8041346716618477056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_91
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b4b8d21562ec6d0800000000000000
+      internalID: -2968392974292268229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5368e0c4a701a0b30800000000000000
+      internalID: 4254230915452929589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_93
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b796758e86efe6b0800000000000000
+      internalID: -5264735939573934160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_94
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6715e4705472ea9a0800000000000000
+      internalID: -6219990857923276426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_95
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b6fab9eff5b68c0800000000000000
+      internalID: -4005001896477627541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_96
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cdd24e56cf10550800000000000000
+      internalID: 6125454482750692468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_97
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca961e7127d85a320800000000000000
+      internalID: 2568614683651172780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173e5fc1e9ed27840800000000000000
+      internalID: 5220479688747901809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1710a1293ac35fdb0800000000000000
+      internalID: -4758830758018547343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d154e13dc38a910800000000000000
+      internalID: 1848794524479200545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_101
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 69
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0875a4c0f379ae10800000000000000
+      internalID: 2209424570130462733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_102
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c4da71a258128f0800000000000000
+      internalID: -567025662239617899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_103
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 69
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0188d38b9df33440800000000000000
+      internalID: 4914550462765105418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_104
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3ba548c448c0050800000000000000
+      internalID: 5768130686927680496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_105
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 69
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d7dd0c2a26604e0800000000000000
+      internalID: -2015815332041753264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_106
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d9a6fc6de8413e0800000000000000
+      internalID: -2083883674311680658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_107
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ffb8b462a6289d0800000000000000
+      internalID: -2773537707798036640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_108
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7672f8fcf11f01a0800000000000000
+      internalID: -6841229530746423684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_109
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 69
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad496084923c7ce60800000000000000
+      internalID: 7982563446606959834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_110
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 80
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03655359e94661d70800000000000000
+      internalID: 9013502336499537456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_111
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 80
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff02b3e0611ca090800000000000000
+      internalID: -8022017728419065857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_112
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 74
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1388cbd61ab09e580800000000000000
+      internalID: -8797487609132840911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c92b4c3c1f14710800000000000000
+      internalID: 1675886359479491636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640fdc720b30169f0800000000000000
+      internalID: -477096030407626682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_115
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936a3f0bae2db7290800000000000000
+      internalID: -7891482016603724231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_116
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfbf049c19e8ee00800000000000000
+      internalID: 1074364820080279477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_117
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca2a98333dfb63c0800000000000000
+      internalID: -4365117017370776896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_118
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3740b4d4054bafa0800000000000000
+      internalID: -5788457009004132549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_119
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026182653708d6b10800000000000000
+      internalID: 1976377044340577824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_120
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c6cb55171705e0800000000000000
+      internalID: -1943559333685574539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad0da01ce56122c0800000000000000
+      internalID: -4458170091553616480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af6e32d88b1e1cc0800000000000000
+      internalID: -3738520366214123610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_123
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa65cfac3eab86770800000000000000
+      internalID: 8604332575617210031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_124
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d1ee3db2be07160800000000000000
+      internalID: 7021370392542322029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_125
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aa13b4d54425970800000000000000
+      internalID: 8742124994163747417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_126
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3ee730379eb88a0800000000000000
+      internalID: -6301686573385718868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_127
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616082b67a8e95480800000000000000
+      internalID: -8909834582020848106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_128
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40843a7e3cd6a0af0800000000000000
+      internalID: -429410126288173052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_129
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4860e72bc20e1430800000000000000
+      internalID: 3755442210844207181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_130
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61a5df383bafb850800000000000000
+      internalID: 6395018253966877035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_131
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 35
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874eb782de5710d20800000000000000
+      internalID: 3243002868130374776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_132
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aac4875bc55c48a0800000000000000
+      internalID: -6319581845272606039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mariom tileset_133
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c1e027cfd3bece0800000000000000
+      internalID: -1374937106776974291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mariom tileset_0: -9099635418568101777
+      mariom tileset_1: -4857682426713732657
+      mariom tileset_10: -8244117994387403772
+      mariom tileset_100: 1848794524479200545
+      mariom tileset_101: 2209424570130462733
+      mariom tileset_102: -567025662239617899
+      mariom tileset_103: 4914550462765105418
+      mariom tileset_104: 5768130686927680496
+      mariom tileset_105: -2015815332041753264
+      mariom tileset_106: -2083883674311680658
+      mariom tileset_107: -2773537707798036640
+      mariom tileset_108: -6841229530746423684
+      mariom tileset_109: 7982563446606959834
+      mariom tileset_11: -4732418020948682239
+      mariom tileset_110: 9013502336499537456
+      mariom tileset_111: -8022017728419065857
+      mariom tileset_112: -8797487609132840911
+      mariom tileset_113: 1675886359479491636
+      mariom tileset_114: -477096030407626682
+      mariom tileset_115: -7891482016603724231
+      mariom tileset_116: 1074364820080279477
+      mariom tileset_117: -4365117017370776896
+      mariom tileset_118: -5788457009004132549
+      mariom tileset_119: 1976377044340577824
+      mariom tileset_12: -8316980161255095232
+      mariom tileset_120: -1943559333685574539
+      mariom tileset_121: -4458170091553616480
+      mariom tileset_122: -3738520366214123610
+      mariom tileset_123: 8604332575617210031
+      mariom tileset_124: 7021370392542322029
+      mariom tileset_125: 8742124994163747417
+      mariom tileset_126: -6301686573385718868
+      mariom tileset_127: -8909834582020848106
+      mariom tileset_128: -429410126288173052
+      mariom tileset_129: 3755442210844207181
+      mariom tileset_13: -8362293514534459180
+      mariom tileset_130: 6395018253966877035
+      mariom tileset_131: 3243002868130374776
+      mariom tileset_132: -6319581845272606039
+      mariom tileset_133: -1374937106776974291
+      mariom tileset_14: 367016754652943669
+      mariom tileset_15: 5529033092287009583
+      mariom tileset_16: 8365267756606785046
+      mariom tileset_17: -1915533232023595596
+      mariom tileset_18: 7973917888946814960
+      mariom tileset_19: 9213534025817520526
+      mariom tileset_2: -4271072648474955132
+      mariom tileset_20: -6711349668427100283
+      mariom tileset_21: -3579071823394766692
+      mariom tileset_22: 1151597898363915716
+      mariom tileset_23: 3289980448043873489
+      mariom tileset_24: 1669282316337676177
+      mariom tileset_25: 2070643136387818093
+      mariom tileset_26: 6583615705131543907
+      mariom tileset_27: -2839682000397601506
+      mariom tileset_28: 2073944697916230955
+      mariom tileset_29: -3507869976220483400
+      mariom tileset_3: -3817685252453637700
+      mariom tileset_30: 3018866173303325161
+      mariom tileset_31: -429532583601807206
+      mariom tileset_32: 3456340658216922407
+      mariom tileset_33: -2627440548525527786
+      mariom tileset_34: 6548318870586642024
+      mariom tileset_35: 6894698593085538056
+      mariom tileset_36: -4270141726026014659
+      mariom tileset_37: 1554288880018670408
+      mariom tileset_38: 9111059611345841439
+      mariom tileset_39: 4565797603405036628
+      mariom tileset_4: 2996117023203062366
+      mariom tileset_40: -9220537482061890275
+      mariom tileset_41: -8697566273952169283
+      mariom tileset_42: -3141743837271171508
+      mariom tileset_43: 6934208187660846888
+      mariom tileset_44: -2926905772178297559
+      mariom tileset_45: 7231436215513409979
+      mariom tileset_46: 3163452784085521099
+      mariom tileset_47: -1153746116875970772
+      mariom tileset_48: 1448308374193565378
+      mariom tileset_49: -6063015798773249317
+      mariom tileset_5: 4598482154782988894
+      mariom tileset_50: 5155155449352743839
+      mariom tileset_51: 3582067357488223848
+      mariom tileset_52: 8489332642197483410
+      mariom tileset_53: -111407294881998839
+      mariom tileset_54: -2898596183035782238
+      mariom tileset_55: -4431355411393868129
+      mariom tileset_56: 8008537079931420999
+      mariom tileset_57: 7228801125028631582
+      mariom tileset_58: 2387602125049982598
+      mariom tileset_59: 7270278905020690738
+      mariom tileset_6: 8364343731368949959
+      mariom tileset_60: 33686643183564103
+      mariom tileset_61: -4365549417523010983
+      mariom tileset_62: -7485320738029436242
+      mariom tileset_63: 1740233826308388013
+      mariom tileset_64: 606077065474528846
+      mariom tileset_65: 5992337474239568325
+      mariom tileset_66: -3559515549306626591
+      mariom tileset_67: 7900598389803226187
+      mariom tileset_68: 6025460822573877530
+      mariom tileset_69: 8862701084740346636
+      mariom tileset_7: 3937578538351300102
+      mariom tileset_70: -8847746855034029351
+      mariom tileset_71: -1038770176686287979
+      mariom tileset_72: -3073070517629157887
+      mariom tileset_73: 1384016714935982185
+      mariom tileset_74: -4631926979364558877
+      mariom tileset_75: -8589491157722084033
+      mariom tileset_76: -1526071232005579764
+      mariom tileset_77: -315110905444118145
+      mariom tileset_78: 2255416074925061445
+      mariom tileset_79: -149475902070517876
+      mariom tileset_8: -6023620350800859088
+      mariom tileset_80: 5414398140799786537
+      mariom tileset_81: -5841650460680578894
+      mariom tileset_82: -8305196541213265293
+      mariom tileset_83: -7159024218659627392
+      mariom tileset_84: 5032389900780251542
+      mariom tileset_85: -986208669976575723
+      mariom tileset_86: -4273400321158445524
+      mariom tileset_87: -2172917038778864810
+      mariom tileset_88: 4971517624998240981
+      mariom tileset_89: -429787260247060255
+      mariom tileset_9: 2421284347374761060
+      mariom tileset_90: -8041346716618477056
+      mariom tileset_91: -2968392974292268229
+      mariom tileset_92: 4254230915452929589
+      mariom tileset_93: -5264735939573934160
+      mariom tileset_94: -6219990857923276426
+      mariom tileset_95: -4005001896477627541
+      mariom tileset_96: 6125454482750692468
+      mariom tileset_97: 2568614683651172780
+      mariom tileset_98: 5220479688747901809
+      mariom tileset_99: -4758830758018547343
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
