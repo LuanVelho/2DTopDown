@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      macaco_0: 7603191538271706256
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
